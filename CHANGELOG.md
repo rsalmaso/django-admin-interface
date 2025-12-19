@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.32.0](https://github.com/fabiocaccamo/django-admin-interface/releases/tag/0.32.0) - 2025-12-19
+-   [python] Add `Python 3.14` support.
+-   [python] Add `Django 6.0` support.
+-   [css] Update style for `Django 6.0`.
+
 ## [0.31.1](https://github.com/fabiocaccamo/django-admin-interface/releases/tag/0.31.1) - 2025-12-02
 -   [js] Prevent modal popup navigation links from opening a modal. (by [julianwachholz](https://github.com/julianwachholz) #462)
 -   [i18n] Add Arabic translation. #459 (by [@khaledsukkar2](https://github.com/khaledsukkar2) in #460)
